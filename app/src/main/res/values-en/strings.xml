@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sound Recorder</string>
+    <string name="tab_title_record">Record</string>
+    <string name="tab_title_file_viewer">History</string>
+    <string name="record_tips">Tap the button to start recording</string>
+    <string name="recording">Recording</string>
+    <string name="stop_recording">End of recording, please check the history file</string>
+    <string name="toast_file_exists">The file %1$s already exists. Please choose a different file name.</string>
+    <!--Dialogs-->
+    <string name="dialog_title_delete">Confirm Delete</string>
+    <string name="dialog_text_delete">Are you sure you would like to delete this file?</string>
+    <string name="dialog_name_is_empty">Name can not be empty</string>
+    <string name="dialog_title_rename">Rename File</string>
+    <string name="dialog_title_options">Options</string>
+    <string name="dialog_file_rename">Rename File</string>
+    <string name="dialog_file_delete">Delete File</string>
+    <string name="dialog_action_cancel">Cancel</string>
+    <string name="dialog_action_ok">OK</string>
+</resources>
